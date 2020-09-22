@@ -1,2 +1,2 @@
-# C22_Bouncy_Ball
-Bouncy_Ball
+# staticSquare
+A static square made using Matter.js physics engine
